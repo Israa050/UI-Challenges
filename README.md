@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🎯 Flutter Interactive Exercises  
 
 A collection of **Flutter exercises** showcasing modern UI features, interactivity, and animations.  
@@ -112,3 +113,21 @@ If you’d like to improve animations, add new widgets, or suggest new exercises
 - 🧩 Clean, modular folder structure  
 - 🔥 Interactive features + animations  
 
+=======
+# ui_challenges
+
+A new Flutter project.
+
+## Getting Started
+
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
+>>>>>>> d658eb4 (upload task)
